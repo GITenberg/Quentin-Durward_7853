@@ -1,5 +1,8 @@
 _repo: Quentin-Durward_7853
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -16,6 +19,8 @@ creator:
 description: "Quentin Durward is a historical novel by Walter Scott, first published\
   \ in 1823. The story concerns a Scottish archer in the service of the French King\
   \ Louis XI (1423–1483).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7853#Quentin-Durward
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
